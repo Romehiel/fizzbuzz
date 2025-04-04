@@ -7,6 +7,7 @@ def fizz_buzz(max_num):
     print("Fizz")
   elif num % 5 == 0:
     print("Buzz")
-
   else:
     print(num)
+   
+fizz_buzz(100)
